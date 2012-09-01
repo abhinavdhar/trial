@@ -1,1 +1,17 @@
-git clone http://www.kiet.edu
+git add kiet http://www.kiet.edu
+
+git clone kiet
+
+git fetch kiet
+
+
+git://github.com/schacon/ticgit.git
+
+
+-------------------------------------------
+
+git tag -a v1.1 -m 'my version 1.1'
+
+git show tag
+
+how to link tag to commit?
