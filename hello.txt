@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 /*thing good 
 
  waise net pe bht mat
+=======
+/*visit these links ,may b u ill get some thing good 
+
+ waise net pe bht mattwer hai..online papers miljaenge bnk po k.. aur even recruitmemnt interviews
+
+*/
+
+>>>>>>> mine1
 
 
 
